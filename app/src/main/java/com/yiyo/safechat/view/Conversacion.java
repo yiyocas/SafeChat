@@ -124,6 +124,7 @@ public class Conversacion extends AppCompatActivity {
                     //InputMethodManager inputMethodManager =(InputMethodManager)getSystemService(Activity.INPUT_METHOD_SERVICE);
                     //inputMethodManager.hideSoftInputFromWindow(v.getWindowToken(), 0);
 
+
                     setMsnasend();
 
                     listMensajes = null;
