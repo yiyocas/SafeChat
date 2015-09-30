@@ -82,7 +82,7 @@ public class Conversacion extends AppCompatActivity {
             for (int i = 0; i<menuItems.length; i++) {
                 menu.add(Menu.NONE, i, i, menuItems[i]);
 
-                cconcy
+
             }
         }
     }
